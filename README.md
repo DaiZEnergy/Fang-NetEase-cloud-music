@@ -1,2 +1,1 @@
-# Fang-NetEase-cloud-music
-Fang NetEase cloud music
+vue2+vuerouter+vuex+better-scroll仿网易云APP
